@@ -1,7 +1,35 @@
-# clerk-qa-platform
-A modern Q&amp;A platform built with Next.js, featuring role-based access control (RBAC) using Clerk. This full-stack app demonstrates enterprise-level authentication, authorization patterns, and responsive UI design.
 
-![Next.js](https://img.shields.io/badge/Next.js-15-black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-06B6D4)
-![Clerk](https://img.shields.io/badge/Clerk-Auth-purple)
+
+## Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/tyaga001/clerk-qa-platform
+```
+
+2. Install the dependencies
+
+```bash
+npm install
+```
+
+3. Set up a Clerk application and Neon database. Then create a Create a .env.local file in the root directory of the project and add the following keys
+
+```bash
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEON_DATABASE_URL=
+```
+
+4. Initialize the database
+
+```bash
+npx drizzle-kit push 
+```
+
+5. Start the Next.js development server
+
+```bash
+npm run dev
+```

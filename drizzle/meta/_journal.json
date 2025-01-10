@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1735832530707,
+      "tag": "0000_colorful_fallen_one",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1735834425068,
+      "tag": "0001_fair_edwin_jarvis",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1735835184433,
+      "tag": "0002_previous_manta",
+      "breakpoints": true
+    }
+  ]
+}
