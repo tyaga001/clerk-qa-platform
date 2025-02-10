@@ -4,6 +4,12 @@
 
 ![Q&A Platform Screenshot](public/screenshot.png)
 
+## 📖 Complete Tutorial
+
+Want to understand how this platform was built? Check out this complete guide:
+
+[Implementing Role-Based Access Control in Next.js 15](https://clerk.com/blog/nextjs-role-based-access-control)
+
 ## 🌟 Features
 
 - **Authentication & Authorization**
