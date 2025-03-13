@@ -10,6 +10,9 @@ Want to understand how this platform was built? Check out this complete guide:
 
 [Implementing Role-Based Access Control in Next.js 15](https://clerk.com/blog/nextjs-role-based-access-control)
 
+![image](https://github.com/user-attachments/assets/7489a711-7653-4d41-9a58-5be17eebcadb)
+
+
 ## 🌟 Features
 
 - **Authentication & Authorization**
